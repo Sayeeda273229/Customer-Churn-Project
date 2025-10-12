@@ -20,10 +20,10 @@ Python, Pandas, NumPy, Seaborn, Scikit-learn, XGBoost, Matplotlib
 
 🚀 How to Run
 # Clone repository
-git clone https://github.com/yourusername/customer-churn-prediction-analysis.git
+git clone (https://github.com/Sayeeda273229/Customer-Churn-Project)
 cd customer-churn-prediction-analysis
 
-# (Optional) Create and activate a virtual environment
+# Create and activate a virtual environment
 python -m venv venv
 source venv/bin/activate    # For Mac/Linux
 venv\Scripts\activate       # For Windows
