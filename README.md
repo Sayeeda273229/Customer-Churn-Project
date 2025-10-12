@@ -36,4 +36,4 @@ jupyter notebook notebook/customer_churn.ipynb
 
 
 # Clone repository
-git clone https://github.com/yourusername/customer-churn-prediction-analysis.git
+git clone https://github.com/Sayeeda273229/Customer-Churn-Project
