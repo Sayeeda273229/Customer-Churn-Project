@@ -8,6 +8,13 @@ This project applies data analytics and machine learning techniques to predict w
 Includes data cleaning, feature engineering, EDA, and modeling with XGBoost for high predictive accuracy.
 The goal is to help businesses understand which factors contribute most to churn and design better customer retention strategies.
 
+🎯 Objectives
+
+Clean and prepare raw data for analysis
+Explore key trends and relationships
+Visualise insights clearly
+Provide actionable recommendations
+
 🧩 Features
 Comprehensive Exploratory Data Analysis (EDA)
 Data preprocessing, feature encoding, and outlier handling
@@ -15,8 +22,13 @@ XGBoost model for high-accuracy churn prediction
 Evaluation using confusion matrix, ROC-AUC, precision, and recall
 Exported trained model (.joblib) for deployment
 
+📊 Visualisations
+Charts were used to highlight trends and comparisons, and the tensure rates of customers according to circumstances for example customers with higher monthly charges have an increased churn risk, and customers on month-to-month contracts have higher churn rates.
+These patterns suggest that both customer commitment and pricing play an important role in churn behaviour.
+
+
 🧰 Tech Stack
-Python, Pandas, NumPy, Seaborn, Scikit-learn, XGBoost, Matplotlib
+Python, Pandas, Scikit-learn, Numpy, XGBoost, SHAP, Matplotlib, Seaborn, Joblib, Streamlit.
 
 🚀 How to Run
 # Clone repository
